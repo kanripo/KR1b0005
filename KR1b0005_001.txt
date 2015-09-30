@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪範口義
-#+DATE: 2015-09-23 09:35:49
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:01:30.202478
+#+PROPERTY: ID KR1b0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1b0005_WYG_001-1a>¶
 欽定四庫全書¶
 　洪範口義卷上　　　　　　　　宋　胡瑗　撰¶
@@ -510,4 +512,3 @@
 　終曰歴者嵗可統月月可統日星辰運行在天歴數¶
 　者所以紀四者而正一嵗之候也然則皆謂之紀者¶
 　括隂陽之運行為天地之大化故皆言紀¶
-
